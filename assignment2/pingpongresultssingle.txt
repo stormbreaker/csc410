@@ -1,0 +1,126 @@
+Normal at 2 bytes
+0.1
+SendRecv at 2 bytes
+0.0835
+Non Blocking at 2 bytes
+0.00549998
+Normal at 4 bytes
+0.111
+SendRecv at 4 bytes
+0.086
+Non Blocking at 4 bytes
+0.00100001
+Normal at 8 bytes
+0.1105
+SendRecv at 8 bytes
+0.0815
+Non Blocking at 8 bytes
+0.00249996
+Normal at 16 bytes
+0.1115
+SendRecv at 16 bytes
+0.0865
+Non Blocking at 16 bytes
+0.00100001
+Normal at 32 bytes
+0.1095
+SendRecv at 32 bytes
+0.082
+Non Blocking at 32 bytes
+0.00249996
+Normal at 64 bytes
+0.1025
+SendRecv at 64 bytes
+0.076
+Non Blocking at 64 bytes
+0.00200002
+Normal at 128 bytes
+0.111
+SendRecv at 128 bytes
+0.082
+Non Blocking at 128 bytes
+0.00100001
+Normal at 256 bytes
+0.1105
+SendRecv at 256 bytes
+0.0845
+Non Blocking at 256 bytes
+0.000500004
+Normal at 512 bytes
+0.111
+SendRecv at 512 bytes
+0.0815
+Non Blocking at 512 bytes
+0.00150001
+Normal at 1024 bytes
+0.112
+SendRecv at 1024 bytes
+0.079
+Non Blocking at 1024 bytes
+0.00250002
+Normal at 2048 bytes
+0.084
+SendRecv at 2048 bytes
+0.093
+Non Blocking at 2048 bytes
+0.00150001
+Normal at 4096 bytes
+0.091
+SendRecv at 4096 bytes
+0.1205
+Non Blocking at 4096 bytes
+0.00100001
+Normal at 8192 bytes
+0.2905
+SendRecv at 8192 bytes
+0.2505
+Non Blocking at 8192 bytes
+0.00200002
+Normal at 16384 bytes
+0.2995
+SendRecv at 16384 bytes
+0.211
+Non Blocking at 16384 bytes
+0.00300002
+Normal at 32768 bytes
+0.846
+SendRecv at 32768 bytes
+0.488
+Non Blocking at 32768 bytes
+0.00600005
+Normal at 65536 bytes
+1.9655
+SendRecv at 65536 bytes
+0.9765
+Non Blocking at 65536 bytes
+0.1355
+Normal at 131072 bytes
+2.2495
+SendRecv at 131072 bytes
+1.252
+Non Blocking at 131072 bytes
+0.3235
+Normal at 262144 bytes
+3.409
+SendRecv at 262144 bytes
+1.795
+Non Blocking at 262144 bytes
+0.355
+Normal at 524288 bytes
+6.099
+SendRecv at 524288 bytes
+2.887
+Non Blocking at 524288 bytes
+1.3785
+Normal at 1048576 bytes
+11.4595
+SendRecv at 1048576 bytes
+5.315
+Non Blocking at 1048576 bytes
+3.97
+Normal at 2097152 bytes
+22.873
+SendRecv at 2097152 bytes
+18.379
+Non Blocking at 2097152 bytes
+8.677
